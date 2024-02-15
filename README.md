@@ -1,2 +1,2 @@
-# pdfGPT
-A script to use the new GeminiPro API to chat up with PDF Documents.
+# arxivGPT
+A script to use the new GeminiPro API to chat up with arXiv papers.
