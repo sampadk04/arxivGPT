@@ -1,0 +1,10 @@
+playwright
+langchain
+langchain-community
+langchainhub
+chromadb
+langchain-google-genai
+elasticsearch
+beautifulsoup4
+tiktoken
+urllib3==1.26.6
